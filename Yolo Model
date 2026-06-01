@@ -1,1 +1,6 @@
 
+## YOLOv9 Model
+
+This project uses **YOLOv9**, a modern and high-performance object detection model, for Bangla license plate detection. YOLOv9 Yolo is designed to detect objects quickly and accurately by analyzing the full image in a single pass. It predicts the location of the license plate using bounding boxes and provides confidence scores for detection.
+
+In this project, YOLOv9 was trained on a Bangla license plate dataset to accurately identify and localize vehicle number plates from images. The model showed strong performance in detecting Bangla license plates and can be further improved for real-time automatic number plate recognition systems.
